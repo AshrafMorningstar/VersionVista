@@ -1,0 +1,1 @@
+Last Update: 2016-01-22T09:00:00Z - feat: Initial project setup with React and TypeScript
