@@ -1,1 +1,1 @@
-Last Update: 2016-01-27T10:00:00Z - feat: Implement user login and registration forms
+Last Update: 2016-01-27T10:15:00Z - chore: Add basic unit tests for auth forms
